@@ -1,0 +1,5 @@
+blank_issues_enabled: false
+contact_links:
+  - name: File the work in Linear
+    url: https://linear.app/scan-global-logistics
+    about: All new work is tracked in Linear (pick the owning team). GitHub issues are not used for new work.
